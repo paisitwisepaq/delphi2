@@ -1,5 +1,7 @@
 unit Horse.Commons;
 
+
+
 {$IF DEFINED(FPC)}
   {$MODE DELPHI}{$H+}
   {$MODESWITCH TypeHelpers}
