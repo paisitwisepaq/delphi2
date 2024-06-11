@@ -1,5 +1,5 @@
 unit Horse.Core.Group.Contract;
-
+dddd
 {$IF DEFINED(FPC)}
   {$MODE DELPHI}{$H+}
 {$ENDIF}
