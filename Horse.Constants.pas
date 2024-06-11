@@ -1,5 +1,5 @@
 unit Horse.Constants;
-
+test test
 {$IF DEFINED(FPC)}
   {$MODE DELPHI}{$H+}
 {$ENDIF}
